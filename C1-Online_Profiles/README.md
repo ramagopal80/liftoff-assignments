@@ -1,4 +1,4 @@
-# Online Profiles
+C1-Online_Profiles/README.md.# Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
 ## Assignment Description
@@ -7,12 +7,20 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
+
+https://github.com/ramagopal80
+
 Provide a link to your GitHub account here.
  
 ### LinkedIn
+www.linkedin.com/in/ramagopal-43455683
+
 Provide a link to your LinkedIn account here.
 
 ### Resume
+
+https://docs.google.com/document/d/1dfNETlklpeKS-wGNOqUSe7dphS67hNLzej9o1p0NXMQ/edit#
+
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
